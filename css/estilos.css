@@ -1,0 +1,58 @@
+
+body{
+background:#082D5E;
+}
+
+.logo{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 40%;
+  height: 40%;
+}
+
+.redes-sociales{
+  margin-left: 30%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.cont2-row{
+background: #00678E;
+}
+.menu{
+  text-align: center;
+}
+
+a:link,a:visited{
+  color : black;
+}
+
+.cont3-row{
+background: #00678E;
+}
+
+.historia1, .historia2 {
+  width: 80%;
+  height: 80%;
+  margin-top: 10%;
+}
+.usuario{
+  width: 20%;
+  height: 20%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 7%;
+}
+
+#buscar{
+margin-top:5%;
+width: 90%;
+margin-left: 5%;
+}
+
+.cont1-row,.cont2-row,.cont3-row, .cont6-row{
+border: 1px solid white;
+}
+.b{
+text-align: center;
+}
